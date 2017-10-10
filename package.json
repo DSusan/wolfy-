@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DSusan/wolfy-/issues"
   },
-  "homepage": "https://github.com/DSusan/wolfy-#readme"
+  "homepage": "https://github.com/DSusan/wolfy-#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
