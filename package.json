@@ -1,0 +1,19 @@
+{
+  "name": "wolfy-",
+  "version": "1.0.0",
+  "description": "Mi PRIMER WEB APP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSusan/wolfy-.git"
+  },
+  "author": "DSusan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSusan/wolfy-/issues"
+  },
+  "homepage": "https://github.com/DSusan/wolfy-#readme"
+}
